@@ -1,0 +1,26 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "c:\\Workspace\\payments\\funds-servicebootRunfunds-service",
+			"script": "bootRun",
+			"description": "Runs this project as a Spring Boot application.",
+			"group": {
+				"kind": "test",
+				"isDefault": true
+			},
+			"project": "funds-service",
+			"buildFile": "C:\\Workspace\\payments\\funds-service\\build.gradle",
+			"rootProject": "funds-service",
+			"projectFolder": "c:\\Workspace\\payments\\funds-service",
+			"workspaceFolder": "c:\\Workspace\\payments\\funds-service",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: bootRun"
+		}
+	]
+}
